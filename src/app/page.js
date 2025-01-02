@@ -60,7 +60,7 @@ export default function Home() {
             <TextField
               id="outlined-basic"
               label="Image!"
-              placeholder="Write your nackground image generation text here!"
+              placeholder="Write your background image generation text here!"
               variant="outlined"
               multiline
               fullWidth
